@@ -1,3 +1,4 @@
+# Evidence class
 class Evidence:
 
     def __init__(self, evidenceStr):
